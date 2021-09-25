@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Pooo\Pooo\bin\Debug\Pooo.exe.config
+C:\Users\USER\source\repos\Pooo\Pooo\bin\Debug\Pooo.exe
+C:\Users\USER\source\repos\Pooo\Pooo\bin\Debug\Pooo.pdb
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.cargar.resources
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.Properties.Resources.resources
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.exe
+C:\Users\USER\source\repos\Pooo\Pooo\obj\Debug\Pooo.pdb

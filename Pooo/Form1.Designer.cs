@@ -155,9 +155,9 @@ namespace Pooo
             // lstDatos
             // 
             this.lstDatos.FormattingEnabled = true;
-            this.lstDatos.Location = new System.Drawing.Point(646, 95);
+            this.lstDatos.Location = new System.Drawing.Point(730, 166);
             this.lstDatos.Name = "lstDatos";
-            this.lstDatos.Size = new System.Drawing.Size(534, 342);
+            this.lstDatos.Size = new System.Drawing.Size(387, 186);
             this.lstDatos.TabIndex = 12;
             // 
             // btnEnd
